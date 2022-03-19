@@ -37,6 +37,8 @@
 #### 코드
 [CalculatorCode](https://github.com/BaeYeongJu/Calculator/blob/d9b8a565d9c26d05b7106b35afa077d3e668e6dc/Calculator/Calculator/UIManager.cs)
 
+현재 github에다가 public으로 개인 작업하고 있는 프로젝트인 "계산기"의 코드로 하였습니다.
+
 - 코드의 구조는 어떻게 되어 있는가?
 답: enum, 함수 2개, 변수들로 구성되어 있다.
 
