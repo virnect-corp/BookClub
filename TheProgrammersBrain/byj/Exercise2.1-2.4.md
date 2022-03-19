@@ -52,6 +52,7 @@
 
 - 코드에서 들여쓰기는 어떻게 되어 있는가?
 답 : Allman 스타일
+
 ![image](https://user-images.githubusercontent.com/18066652/159111903-3015eb76-0a1c-4b64-bcd3-7ab43bb03cdb.png)
   
    - 코드에 간격이 있는가?
