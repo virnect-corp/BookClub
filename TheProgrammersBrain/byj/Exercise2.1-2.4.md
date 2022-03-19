@@ -37,21 +37,28 @@
 #### 코드
 [CalculatorCode](https://github.com/BaeYeongJu/Calculator/blob/d9b8a565d9c26d05b7106b35afa077d3e668e6dc/Calculator/Calculator/UIManager.cs)
 
-현재 github에다가 public으로 개인 작업하고 있는 프로젝트인 "계산기"의 코드로 하였습니다.
+설명 : 현재 github에다가 public으로 개인 작업하고 있는 프로젝트인 "계산기"의 코드로 하였습니다.
 
 - 코드의 구조는 어떻게 되어 있는가?
+
 답: enum, 함수 2개, 변수들로 구성되어 있다.
 
   - 깊이 중첩된 구조인가 아니면 중첩이 없는 평탄한 구조인가?
+  
   답: 현재는 평탄한 구조인 거 같다. 
   - 눈에 띄는 라인이 있는가?
-  if문 말고는 없다.
+  
+  답 : if문 말고는 없다.
 - 코드에서 들여쓰기는 어떻게 되어 있는가?
+
 답 : Allman 스타일
 
 ![image](https://user-images.githubusercontent.com/18066652/159111903-3015eb76-0a1c-4b64-bcd3-7ab43bb03cdb.png)
   
   - 코드에 간격이 있는가?
+  
   답 : 간격이 있다.
+  
   - 코드에 큰 뭉치 처럼 보이는 것이 있는가?
+ 
  답 : 기억이 나지 않는다. 다만 작은 뭉치로만 있던 걸로 기억한다.
