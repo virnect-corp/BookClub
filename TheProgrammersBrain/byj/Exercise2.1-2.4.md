@@ -4,13 +4,16 @@
 
 ![image](https://user-images.githubusercontent.com/18066652/159111131-11747cf7-132d-4d06-abfe-f4d218aa1f09.png)
 
+
 답 :  아래와 같이 3개 정도가 생각이 났고, 그 중에서 하나는 틀렸다.
+
 ![image](https://user-images.githubusercontent.com/18066652/159111297-9ae7aff3-1f70-4182-8d15-521d80fe48c0.png)
 
 ### 연습 문제 2.2번 
 이번에는 다음 문장을 역시 5초간 본 후에 어떤 문장이었는지 기억해보자.
 
 ![image](https://user-images.githubusercontent.com/18066652/159111366-f305d117-ffb6-4ca1-9bef-4b6b2a8919aa.png)
+
 이 문장은 앞 예제보다 쉬웠을 텐데 이미 알고 있는 문자로 되어 있기 때문이다. 믿기 어렵겠지만 두 문장은 같은 길이를 갖는다. 단어는 3개, 문자는 12개인데 중복되지 않는 문자는 9개로 동일하다.
 
 답 :  abk m gbr
@@ -19,6 +22,7 @@
 한 번 더 연습해보자. 이번에도 역시 3개의 단어와 9개의 서로 다른 문자로 이루어진 문장이다. 5초간 이 문장을 본 후에 어떤 문장이었는지 기억해 보자.
 
 ![image](https://user-images.githubusercontent.com/18066652/159111451-5a491b19-2f76-45aa-81ed-e0fa143ad9d9.png)
+
 이번 문장은 앞의 두 문장보다 훨씬 더 쉽지 않았는가? 이 문장은 매우 쉽게 기억했을 텐데, 여러 개의 문자를 한 단위로 묶어서 'cat', 'loves', 'cake'로 기억했기 때문이다. 기억할 항목이 3개면 STM의 최대 용량에 훨씬 못 미치기 때문에 이문장은 쉽게 기억했던 반면, 앞의 두 예제에서는 기억해야 할 항목이 STM의 한도를 넘어섰다.
 
 답: cat loves dogs , 이라고 기억했고, dogs는 틀렸다.
@@ -42,7 +46,9 @@
   if문 말고는 없다.
 - 코드에서 들여쓰기는 어떻게 되어 있는가?
 답 : Allman 스타일
+
 ![image](https://user-images.githubusercontent.com/18066652/159111903-3015eb76-0a1c-4b64-bcd3-7ab43bb03cdb.png)
+  
   - 코드에 간격이 있는가?
   답 : 간격이 있다.
   - 코드에 큰 뭉치 처럼 보이는 것이 있는가?
