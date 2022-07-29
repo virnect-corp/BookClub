@@ -76,8 +76,7 @@ class Person {
 # 7.3 기본형을 객체로 바꾸기
 
 ```jsx
-orders. filter (o => "high" === o.priority
-									||"rush" === o.priority);
+orders. filter (o => "high" === o.priority ||"rush" === o.priority);
 ```
 
 ```jsx
